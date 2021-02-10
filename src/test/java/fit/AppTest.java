@@ -16,8 +16,7 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void shouldCalculateInssWith11Percent()
-    {
+    public void shouldCalculateInssWith11Percent()     {
         // arrange
         var totalSalary = 3000.00;
         var baseSalaryExpected = 2670.00;
